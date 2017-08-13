@@ -1,0 +1,11 @@
+[package]
+name = "learn-gfxrs"
+version = "0.1.0"
+authors = ["solarsail <newleaf.lu@gmail.com>"]
+
+[dependencies]
+gfx = "0.16"
+glutin = "0.9"
+gfx_window_glutin = "0.17"
+image = "0.15"
+cgmath = "0.15"
